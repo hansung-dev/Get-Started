@@ -3,6 +3,7 @@
 ## STEP 1: 설치
 
 [Docker Hub](https://hub.docker.com/r/rheor108/spark_the_definitive_guide_practice/)
+: Spark version: 2.3.2 Python version: 2.7 Zeppelin version: 0.8.0
 
 ```bash
 docker pull rheor108/spark_the_definitive_guide_practice
