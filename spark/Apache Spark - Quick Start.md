@@ -9,7 +9,9 @@ docker pull rheor108/spark_the_definitive_guide_practice
 docker run -p 8080:8080 -p 4040:4040 rheor108/spark_the_definitive_guide_practice
 ```
 ## STEP 2: 접속하기
-브라우저에서 접속 http://localhost:8080
+브라우저에서 접속합니다 - http://localhost:8080 
+
+예제 파일의 노트북을 실행 합니다. (ex. Spark-The-Definitive-Guide-Python)
 
 ![spark%2035b1352058f34e63960d18f32a81010b/_2020-10-07__1.00.58.png](spark%2035b1352058f34e63960d18f32a81010b/_2020-10-07__1.00.58.png)
 
