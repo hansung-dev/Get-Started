@@ -31,7 +31,7 @@ divisBy2 = myRange.where("number % 2 = 0")
 divisBy2.count()
 ```
 
-## STEP 4: 조금 간단하지 않은 예제 (1)
+## STEP 4: 조금 간단하지 않은 예제
 #### CSV 읽고 Query로 결과 출력
 
 ```bash
