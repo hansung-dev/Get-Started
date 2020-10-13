@@ -56,5 +56,5 @@ GRANT GRANT OPTION ON *.* TO 'hansung'@'%';
 
 
 ## 참조
-[Installing MySQL on Linux Using RPM Packages from Oracle](https://dev.mysql.com/doc/refman/5.7/en/linux-installation-rpm.html)
-[Basic Steps for MySQL Server Deployment with Docker](https://dev.mysql.com/doc/refman/5.7/en/docker-mysql-getting-started.html)
+* [Installing MySQL on Linux Using RPM Packages from Oracle](https://dev.mysql.com/doc/refman/5.7/en/linux-installation-rpm.html)
+* [Basic Steps for MySQL Server Deployment with Docker](https://dev.mysql.com/doc/refman/5.7/en/docker-mysql-getting-started.html)
