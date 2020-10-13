@@ -21,6 +21,6 @@
 * [Elasticsearch - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Elasticsearch/Elasticsearch%20-%20Quick%20Start.md)
 
 
-## [Redis](https://redis.io/)
+## [Redis](https://github.com/hansung-dev/Quick-Start/tree/main/Redis)
 
-* [Redis - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Elasticsearch/Elasticsearch%20-%20Quick%20Start.md)
+* [Redis - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Redis/Redis%20-%20Quick%20Start.md)
