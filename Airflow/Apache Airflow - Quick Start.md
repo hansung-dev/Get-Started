@@ -9,6 +9,7 @@ docker pull jupyter/base-notebook:python-3.7.3
 docker run -it -p 8881-8889:8881-8889 -v /Users/hansung.dev/docke jupyter/base-notebook:python-3.7.3 bash
 ```
 
+## STEP 2: install from pypi using pip
 ```bash
 # conda 최신버전으로 업데이트한다
 conda update -y conda
@@ -20,6 +21,7 @@ conda install -y vim
 pip install werkzeug==0.15.4
 ```
 
+## STEP 3: initialize the database
 ```bash
 airflow initdb
 ```
@@ -32,7 +34,7 @@ source ~/.profile
 airflow version
 ```
 
-## STEP 2: 실습 #1 
+## STEP 4: 실습 #1 
 
 ```bash
 mkdir $AIRFLOW_HOME/dags
