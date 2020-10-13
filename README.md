@@ -16,7 +16,7 @@
 
 * [Apache Airflow - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Airflow/Apache%20Airflow%20-%20Quick%20Start.md)
 
-## [Elastic Search](https://github.com/hansung-dev/Quick-Start/tree/main/%08Elasticsearch)
+## [Elastic Search](https://github.com/hansung-dev/Quick-Start/tree/main/Elasticsearch)
 
-* [Elasticsearch - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Airflow/Apache%20Airflow%20-%20Quick%20Start.md)
+* [Elasticsearch - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Elasticsearch/Elasticsearch%20-%20Quick%20Start.md)
 
