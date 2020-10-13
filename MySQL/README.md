@@ -5,4 +5,4 @@ MySQL Database Service는 전 세계에서 가장 널리 사용되는 오픈 소
 MySQL Database Service is a fully managed database service to deploy cloud-native applications using the world’s most popular open source database.
 
 * [MySQL Official Website](https://www.mysql.com/)
-* [MySQL 5.7 - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/MySQL/Apache%20Spark%20-%20Quick%20Start.md)
+* [MySQL 5.7 - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/MySQL/MySQL%205.7%20-%20Quick%20Start.md)
