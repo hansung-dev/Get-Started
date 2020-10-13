@@ -1,4 +1,4 @@
-# Elasticsearch - Quick Start
+# Elasticsearch - Quick Start
 
 ## STEP 1: 환경 구성
 
