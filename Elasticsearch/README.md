@@ -1,6 +1,5 @@
 
-# Elasticsearch
-
+# Elasticsearch
 
 
 * [Elasticsearch Official Website](https://www.elastic.co/kr/elastic-stack)
