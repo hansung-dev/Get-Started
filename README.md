@@ -1,6 +1,6 @@
 # Get-Started
 
-## [Apache Spark](https://github.com/hansung-dev/Quick-Start/tree/main/spark)
+## [Spark](https://github.com/hansung-dev/Quick-Start/tree/main/spark)
 
 * [Apache Spark - Quick Start](https://github.com/hansung-dev/Get-Started/blob/main/spark/Apache%20Spark%20-%20Quick%20Start.md)
 
@@ -12,11 +12,11 @@
 
 * [MySQL 5.7 - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/MySQL/MySQL%205.7%20-%20Quick%20Start.md)
 
-## [Apache Airflow](https://github.com/hansung-dev/Quick-Start/tree/main/Airflow)
+## [Airflow](https://github.com/hansung-dev/Quick-Start/tree/main/Airflow)
 
 * [Apache Airflow - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Airflow/Apache%20Airflow%20-%20Quick%20Start.md)
 
-## [Elastic Search](https://github.com/hansung-dev/Quick-Start/tree/main/Elasticsearch)
+## [Elasticsearch](https://github.com/hansung-dev/Quick-Start/tree/main/Elasticsearch)
 
 * [Elasticsearch - Quick Start](https://github.com/hansung-dev/Quick-Start/blob/main/Elasticsearch/Elasticsearch%20-%20Quick%20Start.md)
 
