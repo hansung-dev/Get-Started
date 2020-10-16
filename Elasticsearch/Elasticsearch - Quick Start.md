@@ -43,6 +43,8 @@ curl -XDELETE '<http://localhost:9200/.kibana>'
 curl <http://localhost:9200/.kibana>'/_cat/indices?v
 ```
 
+* http://localhost:9200/
+* http://localhost:5601/
 
 ## 참조
 * [Install Elasticsearch with RPM](https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html)
